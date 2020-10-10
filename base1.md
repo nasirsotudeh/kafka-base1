@@ -6,7 +6,7 @@
 this command run our cluster
 
 
-## next pass the app file to toturial 
+## pas app file to toturial 
 ``` docker run --rm -it -v "$(pwd)":/toturial --net=host landoop/fast-data-dev bash ```
 
 #### make topic demo-1-standalone with partition and replication-factor and zookeeper
